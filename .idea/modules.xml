@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList1/ArrayList1.iml" filepath="$PROJECT_DIR$/ArrayList1/ArrayList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" filepath="$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS105.iml" filepath="$PROJECT_DIR$/.idea/CS105.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexOperations/ComplexOperations.iml" filepath="$PROJECT_DIR$/ComplexOperations/ComplexOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise30/Exercise30.iml" filepath="$PROJECT_DIR$/Exercise30/Exercise30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise31/Exercise31.iml" filepath="$PROJECT_DIR$/Exercise31/Exercise31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework01/Homework01.iml" filepath="$PROJECT_DIR$/Homework01/Homework01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework02/Homework02.iml" filepath="$PROJECT_DIR$/Homework02/Homework02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework03/Homework03.iml" filepath="$PROJECT_DIR$/Homework03/Homework03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Lab03/Lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Lab04/Lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Lab07/Lab07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09/Lab09.iml" filepath="$PROJECT_DIR$/Lab09/Lab09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabWeek02/LabWeek02.iml" filepath="$PROJECT_DIR$/LabWeek02/LabWeek02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElement/MinimumElement.iml" filepath="$PROJECT_DIR$/MinimumElement/MinimumElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointExercise/PointExercise.iml" filepath="$PROJECT_DIR$/PointExercise/PointExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReferencevsValue/ReferencevsValue.iml" filepath="$PROJECT_DIR$/ReferencevsValue/ReferencevsValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortedArray/SortedArray.iml" filepath="$PROJECT_DIR$/SortedArray/SortedArray.iml" />
+    </modules>
+  </component>
+</project>
